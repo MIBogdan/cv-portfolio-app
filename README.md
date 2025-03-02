@@ -1,7 +1,7 @@
 # CV & Portfolio Website
 
 
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20SCSS%20%7C%20JavaScript%20%7C%20jQuery%20%7C%20Bootstrap%20%7C%20Webpack-blue?style=flat-square)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20SCSS%20%7C%20JavaScript%20%7C%20jQuery%20%7C%20Bootstrap%20%7C%20Webpack-black?style=flat-square)](#)
 
 
 > A dynamic, single-page website template built with Bootstrap and powered by Webpack.
