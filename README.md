@@ -1,12 +1,10 @@
 # CV & Portfolio Website
 
-
 [![Tech Stack](https://img.shields.io/badge/HTML%20%7C%20SCSS%20%7C%20JavaScript%20%7C%20jQuery%20%7C%20Bootstrap%20%7C%20Webpack-black?style=flat-square)](#)
-
-
 > A dynamic, single-page website template built with Bootstrap and powered by Webpack.
 
 ## Overview
+
 CV & Portfolio Website is a professional web application designed to showcase experience, skills, education, and projects in a structured and visually appealing way. Built with modern web technologies, it features smooth animations, responsive design, and an intuitive user experience, making it a great starting point for personal branding.
 
 ## Preview
@@ -16,6 +14,7 @@ CV & Portfolio Website is a professional web application designed to showcase ex
 </p>
 
 ## Features
+
 - **Single Page Layout:** Dynamic content is injected into the template via EJS. 
 - **Responsive Design:** Built with Bootstrap for a seamless experience on all devices. 
 - **Interactive Animations:** Includes particle effects and typed text animations. 
@@ -26,9 +25,11 @@ CV & Portfolio Website is a professional web application designed to showcase ex
 
 
 ## Live Demo
+
 **Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/cv-portfolio-app/)
 
 ## Local Setup
+
 1. **Clone** the repository:
    ```bash
    git clone https://github.com/MIBogdan/cv-portfolio-app.git
@@ -51,6 +52,7 @@ CV & Portfolio Website is a professional web application designed to showcase ex
 ---
 
 ## Author
+
 **Marius Bogdan**  
 [Personal portfolio](https://marius-bogdan.com/)
 
