@@ -35,9 +35,9 @@ CV & Portfolio Website is a professional web application designed to showcase ex
    git clone https://github.com/MIBogdan/cv-portfolio-app.git
    ```
 2. **Navigate** to the project folder:
-  ```bash
-  cd cv-portfolio-app
-  ```
+    ```bash
+    cd cv-portfolio-app
+    ```
 3. **Install** dependencies:
    ```bash
    npm install
