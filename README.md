@@ -34,18 +34,22 @@ CV & Portfolio Website is a professional web application designed to showcase ex
    ```bash
    git clone https://github.com/MIBogdan/cv-portfolio-app.git
    ```
-2. **Install** dependencies:
+2. **Navigate** to the project folder:
+  ```bash
+  cd cv-portfolio-app
+  ```
+3. **Install** dependencies:
    ```bash
    npm install
    ```
 
-3. **Run** the development server:
+4. **Run** the development server:
    ```bash
    npm run dev
    ```
 - The development server will open automatically in your default browser. If it doesn’t, use a local development server (like VS Code Live Server).
 
-4. **Build** for production:
+5. **Build** for production:
    ```bash
    npm run build
    ```
